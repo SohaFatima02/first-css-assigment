@@ -1,0 +1,96 @@
+body{
+    background-color: rgb(202, 207, 211);
+}
+.main{
+    background-color: white;
+    height: 60px;
+    width: auto;
+    color: grey;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 10px;
+}
+.box{
+    background-color: rgb(114, 4, 23);
+    height: 30px;
+
+}
+.box1{
+     background-color: rgb(141, 6, 28);
+    height: 30px;
+
+}
+.box2{
+     background-color: rgb(164, 12, 37);
+    height: 30px;
+
+}
+.box3{
+     background-color: rgb(173, 7, 34);
+    height: 30px;
+    
+
+}
+.box4{
+     background-color: rgb(189, 9, 39);
+    height: 30px;
+   
+
+}
+.box5{
+     background-color: rgb(199, 8, 40);
+    height: 30px;
+
+}
+.box6{
+     background-color: rgb(209, 26, 57);
+    height: 30px;
+
+}
+.box7{
+     background-color:rgb(240, 240, 81);
+    height: 40px;
+    
+   
+
+}
+.box8{
+     background-color: rgb(255, 149, 111);
+    height: 30px;
+  
+
+}
+.box9{
+     background-color:rgb(255, 127, 81);
+    height: 30px;
+
+}
+.box10{
+     background-color: rgb(253, 109, 56);
+    height: 30px;
+
+
+}
+.box11{
+     background-color: rgb(249, 87, 28);
+    height: 30px;
+   
+
+}
+.box12{
+     background-color: rgb(219, 78, 27);
+    height: 30px;
+
+
+}
+.box13{
+     background-color: rgb(186, 56, 9);
+    height: 30px;
+   
+
+}
+.box14{
+     background-color: rgb(165, 48, 6);
+    height: 30px;
+
+}
